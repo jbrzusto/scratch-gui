@@ -46,6 +46,11 @@ import gdxforInsetIconURL from './gdxfor/gdxfor-small.svg';
 import gdxforConnectionIconURL from './gdxfor/gdxfor-illustration.svg';
 import gdxforConnectionSmallIconURL from './gdxfor/gdxfor-small.svg';
 
+import picoboardIconURL from './picoboard/picoboard.png';
+import picoboardInsetIconURL from './picoboard/picoboard-small.svg';
+import picoboardConnectionIconURL from './picoboard/picoboard-illustration.svg';
+import picoboardConnectionSmallIconURL from './picoboard/picoboard-small.svg';
+
 export default [
     {
         name: (
@@ -195,6 +200,36 @@ export default [
             />
         ),
         helpLink: 'https://scratch.mit.edu/microbit'
+    },
+    {
+        name: 'picoboard',
+        extensionId: 'picoboard',
+        collaborator: 'nobody',
+        iconURL: picoboardIconURL,
+        insetIconURL: picoboardInsetIconURL,
+        description: (
+            <FormattedMessage
+                defaultMessage="Connect your projects with the world."
+                description="Description for the 'picoboard' extension"
+                id="gui.extension.picoboard.description"
+            />
+        ),
+        featured: true,
+        disabled: false,
+        bluetoothRequired: true,
+        internetConnectionRequired: true,
+        launchPeripheralConnectionFlow: true,
+        useAutoScan: false,
+        connectionIconURL: picoboardConnectionIconURL,
+        connectionSmallIconURL: picoboardConnectionSmallIconURL,
+        connectingMessage: (
+            <FormattedMessage
+                defaultMessage="Connecting"
+                description="Message to help people connect to their picoboard."
+                id="gui.extension.picoboard.connectingMessage"
+            />
+        ),
+        helpLink: 'https://scratch.mit.edu/picoboard'
     },
     {
         name: 'LEGO MINDSTORMS EV3',
