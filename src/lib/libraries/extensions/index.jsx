@@ -229,7 +229,7 @@ export default [
                 id="gui.extension.picoboard.connectingMessage"
             />
         ),
-        helpLink: 'https://scratch.mit.edu/picoboard'
+        helpLink: 'https://github.com/jbrzusto/scratch-picoboard'
     },
     {
         name: 'LEGO MINDSTORMS EV3',
