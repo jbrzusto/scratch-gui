@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="30.691666mm"
-   height="14.222967mm"
-   viewBox="0 0 30.691666 14.222967"
+   width="600"
+   height="372"
+   viewBox="0 0 158.75001 98.424999"
    version="1.1"
    id="svg6255"
    inkscape:version="0.92.4 (f8dce91, 2019-08-02)"
@@ -20,7 +20,37 @@
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
-     id="defs6249" />
+     id="defs6249">
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient12610"
+       gradientUnits="userSpaceOnUse"
+       x="70.470612"
+       y="60.254055">
+      <meshrow
+         id="meshrow12612">
+        <meshpatch
+           id="meshpatch12614">
+          <stop
+             path="c 54.0506,0  108.101,0  162.152,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop12616" />
+          <stop
+             path="c 0,34.0809  0,68.1617  0,102.243"
+             style="stop-color:#2b0000;stop-opacity:1"
+             id="stop12618" />
+          <stop
+             path="c -54.0506,0  -108.101,0  -162.152,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop12620" />
+          <stop
+             path="c 0,-34.0809  0,-68.1617  0,-102.243"
+             style="stop-color:#2b0000;stop-opacity:1"
+             id="stop12622" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -29,8 +59,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="-73.257742"
-     inkscape:cy="-14.110547"
+     inkscape:cx="125.25023"
+     inkscape:cy="133.94604"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -42,7 +72,8 @@
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0"
+     units="px" />
   <metadata
      id="metadata6252">
     <rdf:RDF>
@@ -59,10 +90,18 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-70.848588,-144.49389)">
+     transform="translate(-70.848588,-60.291853)">
+    <rect
+       style="fill:url(#meshgradient12610);stroke-width:0.26458332;fill-opacity:1;fill-rule:nonzero"
+       id="rect11144"
+       width="162.15178"
+       height="102.24255"
+       x="70.470612"
+       y="60.254055"
+       ry="1.4306444" />
     <g
        id="g7165"
-       transform="matrix(0.23340272,0,0,0.23340272,66.076409,116.22027)">
+       transform="matrix(0.75388643,0,0,0.77181125,84.884066,-6.6446112)">
       <g
          id="g9888">
         <rect
@@ -346,23 +385,24 @@
            style="fill:#ffffff;stroke-width:0.26458332" />
       </g>
     </g>
-    <circle
-       style="fill:#999999;stroke-width:0.06825493"
+    <ellipse
+       style="fill:#999999;stroke-width:0.22306766"
        id="path7066"
-       cx="79.987473"
-       cy="156.77927"
-       r="1.3100101" />
+       cx="129.81664"
+       cy="127.47503"
+       rx="4.231308"
+       ry="4.3319139" />
     <rect
-       style="fill:#999999;stroke-width:0.06387237"
+       style="fill:#999999;stroke-width:0.20874478"
        id="rect7068"
-       width="2.8695459"
-       height="3.0566902"
-       x="90.113335"
-       y="155.15735"
-       ry="0.56143296" />
+       width="9.2685804"
+       height="10.1078"
+       x="162.52295"
+       y="122.11174"
+       ry="1.8565348" />
     <g
        id="g7075"
-       transform="matrix(0.19575712,0,0,0.19575712,68.607068,123.07759)">
+       transform="matrix(0.63229184,0,0,0.64732558,93.058016,16.031042)">
       <circle
          r="4.1426778"
          cy="171.51697"
@@ -370,11 +410,12 @@
          id="path7070"
          style="fill:#000000;stroke-width:0.26458332" />
     </g>
-    <circle
-       style="fill:#000000;stroke-width:0.06351888"
+    <ellipse
+       style="fill:#000000;stroke-width:0.20758954"
        id="path7072"
-       cx="79.991226"
-       cy="156.78304"
-       r="1.1228658" />
+       cx="129.82872"
+       cy="127.4875"
+       rx="3.6268358"
+       ry="3.7130692" />
   </g>
 </svg>
