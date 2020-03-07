@@ -209,8 +209,8 @@ export default [
         insetIconURL: picoboardInsetIconURL,
         description: (
             <FormattedMessage
-                defaultMessage="Connect your projects with the world."
-                description="Description for the 'picoboard' extension"
+                defaultMessage="Unofficial hack to keep your picoboard out of the landfill."
+                description="Notes on the unofficial 'picoboard' extension"
                 id="gui.extension.picoboard.description"
             />
         ),
