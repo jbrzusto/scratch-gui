@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="600"
-   height="372"
-   viewBox="0 0 158.75001 98.424999"
+   width="374.67783"
+   height="177.75954"
+   viewBox="0 0 99.133514 47.03221"
    version="1.1"
    id="svg6255"
    inkscape:version="0.92.4 (f8dce91, 2019-08-02)"
@@ -20,37 +20,7 @@
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
-     id="defs6249">
-    <meshgradient
-       inkscape:collect="always"
-       id="meshgradient12610"
-       gradientUnits="userSpaceOnUse"
-       x="70.470612"
-       y="60.254055">
-      <meshrow
-         id="meshrow12612">
-        <meshpatch
-           id="meshpatch12614">
-          <stop
-             path="c 54.0506,0  108.101,0  162.152,0"
-             style="stop-color:#ffffff;stop-opacity:1"
-             id="stop12616" />
-          <stop
-             path="c 0,34.0809  0,68.1617  0,102.243"
-             style="stop-color:#2b0000;stop-opacity:1"
-             id="stop12618" />
-          <stop
-             path="c -54.0506,0  -108.101,0  -162.152,0"
-             style="stop-color:#ffffff;stop-opacity:1"
-             id="stop12620" />
-          <stop
-             path="c 0,-34.0809  0,-68.1617  0,-102.243"
-             style="stop-color:#2b0000;stop-opacity:1"
-             id="stop12622" />
-        </meshpatch>
-      </meshrow>
-    </meshgradient>
-  </defs>
+     id="defs6249" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -59,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="125.25023"
-     inkscape:cy="133.94604"
+     inkscape:cx="-119.98363"
+     inkscape:cy="40.082887"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -90,15 +60,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-70.848588,-60.291853)">
-    <rect
-       style="fill:url(#meshgradient12610);stroke-width:0.26458332;fill-opacity:1;fill-rule:nonzero"
-       id="rect11144"
-       width="162.15178"
-       height="102.24255"
-       x="70.470612"
-       y="60.254055"
-       ry="1.4306444" />
+     transform="translate(-100.29812,-86.850018)">
     <g
        id="g7165"
        transform="matrix(0.75388643,0,0,0.77181125,84.884066,-6.6446112)">
