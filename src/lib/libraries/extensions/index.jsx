@@ -203,14 +203,14 @@ export default [
     },
     {
         name: 'picoboard',
-        extensionId: 'picoboard',
+        extensionId: 'PicoBoard',
         collaborator: 'nobody',
         iconURL: picoboardIconURL,
         insetIconURL: picoboardInsetIconURL,
         description: (
             <FormattedMessage
                 defaultMessage="Unofficial hack to keep your picoboard out of the landfill."
-                description="Notes on the unofficial 'picoboard' extension"
+                description="Load scratch 2.0 picoboard projects or create new ones."
                 id="gui.extension.picoboard.description"
             />
         ),
